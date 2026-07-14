@@ -1,0 +1,8 @@
+venv/
+*.npz
+__pycache__/
+*.pyc
+train/
+valid/
+test/
+archive.zip
